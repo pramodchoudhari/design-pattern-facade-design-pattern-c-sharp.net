@@ -1,0 +1,6 @@
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\FacadeDesignPatternInCSharp.Net\obj\Debug\FacadeDesignPatternInCSharp.Net.csprojResolveAssemblyReference.cache
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\FacadeDesignPatternInCSharp.Net\bin\Debug\FacadeDesignPatternInCSharp.Net.exe.config
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\FacadeDesignPatternInCSharp.Net\bin\Debug\FacadeDesignPatternInCSharp.Net.exe
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\FacadeDesignPatternInCSharp.Net\bin\Debug\FacadeDesignPatternInCSharp.Net.pdb
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\FacadeDesignPatternInCSharp.Net\obj\Debug\FacadeDesignPatternInCSharp.Net.exe
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\FacadeDesignPatternInCSharp.Net\obj\Debug\FacadeDesignPatternInCSharp.Net.pdb

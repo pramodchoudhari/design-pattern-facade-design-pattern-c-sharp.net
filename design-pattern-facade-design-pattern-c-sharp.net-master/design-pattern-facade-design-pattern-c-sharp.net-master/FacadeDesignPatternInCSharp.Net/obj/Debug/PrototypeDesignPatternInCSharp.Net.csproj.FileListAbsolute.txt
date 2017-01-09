@@ -1,0 +1,9 @@
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.exe.config
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.exe
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.pdb
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.csprojResolveAssemblyReference.cache
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.exe
+F:\poc\DesignPatterns\PrototypeDesignPatternInCSharp.Net\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.pdb
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\PrototypeDesignPatternInCSharp.Net\bin\Debug\PrototypeDesignPatternInCSharp.Net.exe.config
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.exe
+D:\pramod study\design-pattern-prototype-design-pattern-c-sharp.net-master\design-pattern-prototype-design-pattern-c-sharp.net-master\PrototypeDesignPatternInCSharp.Net\obj\Debug\PrototypeDesignPatternInCSharp.Net.pdb
